@@ -1,0 +1,24 @@
+{
+   "sessionName": "ramlanid",
+   "ownerNumber": "6283175814036@s.whatsapp.net",
+   "ownerName": "FikriNet",
+   "botName": "BotWa",
+   "footer": "Fikri Bot © 2022",
+   "butName": "WhatsApp",
+   "butLink": "https://api.whatsapp.com/send/?phone=6283175814036",   
+   "pathThumb": "./temp/logo.jpg",
+   "pathQris": "./temp/qris.jpg",
+   "packname": "IG :",
+   "author": "_Fix_Davinci_",
+   "mess": {
+    "wait": "*Tunggu permintaan anda sedang diproses!*",
+    "error": "*Maaf terjadi kesalahan!*",
+    "lv": "Link yang kamu berikan tidak valid",
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium"
+   }
+}
